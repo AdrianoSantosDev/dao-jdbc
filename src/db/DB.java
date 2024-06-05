@@ -14,6 +14,8 @@ public class DB {
 	private static Connection conn = null;
 
 	// Método para gerar uma conexão com o banco de dados,
+	
+	// TESTE
 	// verificando se tem uma conexão, se não tive uma ele cria;
 
 	public static Connection getConnection() {
